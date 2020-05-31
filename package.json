@@ -1,25 +1,25 @@
 {
-  "name": "vanilla-parcel-boilerplate",
+  "name": "endless-gradients",
   "version": "1.0.0",
-  "description": "Simple workflow starter for building vanilla JS apps",
+  "description": "A sample project using Ethereal Color",
   "main": "index.js",
   "scripts": {
     "dev": "parcel public/index.html --out-dir development -p 3000",
-    "build": "parcel build public/index.html --out-dir dist --public-url ./"
+    "build": "parcel build public/index.html --out-dir docs --public-url /endless-gradients"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bradtraversy/vanilla-parcel-boilerplate.git"
+    "url": "https://github.com/LaksCastro/endless-gradients.git"
   },
   "keywords": [
     "parcel"
   ],
-  "author": "Brad Traversy",
+  "author": "Laks Castro",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bradtraversy/vanilla-parcel-boilerplate/issues"
+    "url": "https://github.com/LaksCastro/endless-gradients/issues"
   },
-  "homepage": "https://github.com/bradtraversy/vanilla-parcel-boilerplate#readme",
+  "homepage": "https://lakscastro.github.io/endless-gradients",
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/plugin-transform-runtime": "^7.9.0",
@@ -28,7 +28,6 @@
     "sass": "^1.26.3"
   },
   "dependencies": {
-    "axios": "^0.19.2",
     "ethereal-color": "^0.0.5",
     "lodash": "^4.17.15"
   }
