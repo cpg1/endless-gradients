@@ -1,7 +1,7 @@
 {
   "name": "endless-gradients",
   "version": "1.0.0",
-  "description": "A sample project using Ethereal Color",
+  "description": "A sample project using Ethereal Color Library",
   "main": "index.js",
   "scripts": {
     "dev": "parcel public/index.html --out-dir development -p 3000",
