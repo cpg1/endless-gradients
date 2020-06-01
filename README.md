@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="./src/assets/images/logo.png" width="150">
-  <h1 align="center">Colorful</h1>
-  <p align="center">Infinity color palette's, save it or use one of your colors</p>
+  <img src="./src/assets/logo.svg" width="150">
+  <h1 align="center">Endless Gradients</h1>
+  <p align="center">A sample project using Ethereal Color Library</p>
   <p align="center">
     <img src="https://img.shields.io/badge/bot-colors-success" alt="PWA installable" />
     <img src="https://img.shields.io/badge/type-project-orange" alt="Repo Type" />
