@@ -15,5 +15,11 @@
   </p>
 </p>
 
+## What is?
+A small example project using the Ethereal Color library, [you can check it out here](https://lakscastro.github.io/ethereal.color)
+
+## Library
+To learn more about the library, [visit the repository](https://github.com/LaksCastro/ethereal-color)
+
 ## License
 This project is licensed under the MIT license - see the [LICENSE.md](LICENSE.md) archive for more details.
