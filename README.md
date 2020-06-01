@@ -16,7 +16,7 @@
 </p>
 
 ## What is?
-A small example project using the Ethereal Color library, [you can check it out here](https://lakscastro.github.io/ethereal-color)
+A small example project using the Ethereal Color library, [you can check it out here](https://lakscastro.github.io/endless-gradients)
 
 ## Library
 To learn more about the library, [visit the repository](https://github.com/LaksCastro/ethereal-color)
