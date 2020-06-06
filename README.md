@@ -21,5 +21,19 @@ A small example project using the Ethereal Color library, [you can check it out 
 ## Library
 To learn more about the library, [visit the repository](https://github.com/LaksCastro/ethereal-color)
 
-## License
-This project is licensed under the MIT license - see the [LICENSE.md](LICENSE.md) archive for more details.
+<br>
+<br>
+<br>
+<br>
+
+<h2 align="center">
+  Open Source
+</h2>
+<p align="center">
+  <sub>Copyright © 2020-present, Laks Castro.</sub>
+</p>
+<p align="center">Endless Gradients <a href="https://github.com/LaksCastro/minimal-ts-calculator/blob/master/LICENSE.md">is MIT licensed 💖</a></p>
+<p align="center">
+  <img src="./src/assets/logo.svg" width="35" />
+</p>
+
