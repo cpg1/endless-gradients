@@ -32,7 +32,7 @@ To learn more about the library, [visit the repository](https://github.com/LaksC
 <p align="center">
   <sub>Copyright © 2020-present, Laks Castro.</sub>
 </p>
-<p align="center">Endless Gradients <a href="https://github.com/LaksCastro/minimal-ts-calculator/blob/master/LICENSE.md">is MIT licensed 💖</a></p>
+<p align="center">Endless Gradients <a href="https://github.com/LaksCastro/endless-gradients/blob/master/LICENSE.md">is MIT licensed 💖</a></p>
 <p align="center">
   <img src="./src/assets/logo.svg" width="35" />
 </p>
