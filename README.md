@@ -28,6 +28,8 @@ To learn more about the library, [visit the repository](https://github.com/alexr
 <br>
 <br>
 
+<samp>
+
 <h2 align="center">
   Open Source
 </h2>
@@ -38,3 +40,5 @@ To learn more about the library, [visit the repository](https://github.com/alexr
 <p align="center">
   <img src="./src/assets/logo.svg" width="35" />
 </p>
+
+</samp>
