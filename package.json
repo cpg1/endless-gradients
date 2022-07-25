@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LaksCastro/endless-gradients.git"
+    "url": "https://github.com/alexrintt/endless-gradients.git"
   },
   "keywords": [
     "parcel"
   ],
-  "author": "Laks Castro",
+  "author": "Alex Rintt <alexrintt@gmail.com> (https://github.com/alexrintt)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LaksCastro/endless-gradients/issues"
+    "url": "https://github.com/alexrintt/endless-gradients/issues"
   },
-  "homepage": "https://lakscastro.github.io/endless-gradients",
+  "homepage": "https://alexrintt.github.io/endless-gradients",
   "devDependencies": {
     "@babel/core": "^7.9.0",
     "@babel/plugin-transform-runtime": "^7.9.0",
